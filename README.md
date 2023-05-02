@@ -9,4 +9,4 @@ Les caractéristiques du langage Java :
 
 ## Documentation
 
-Lien vers la <span style="color:red">documentation officiel</span> : [Documentation](https://docs.oracle.com/en/java/)
+Lien vers la documentation officiel : [Documentation](https://docs.oracle.com/en/java/)
