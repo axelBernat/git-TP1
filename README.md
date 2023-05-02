@@ -1,5 +1,5 @@
 # Le Langage Java
----
+
 ## Introduction
 
 Les caractéristiques du langage Java :
